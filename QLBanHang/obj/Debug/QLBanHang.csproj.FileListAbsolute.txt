@@ -1,0 +1,143 @@
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\QLBanHang.exe
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.exe
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmDangNhap.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.MDIGiaoDienBoss.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.MDIGiaoDienStaff.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmLoaiSanPham.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmSanPham.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmNhanVien.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmDaiLy.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmHoaDonBan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmThongTinTaiKhoan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\Newtonsoft.Json.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Buffers.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Memory.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Numerics.Vectors.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Text.Encodings.Web.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Text.Json.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.ValueTuple.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\Newtonsoft.Json.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Buffers.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Memory.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Numerics.Vectors.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Text.Encodings.Web.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Text.Json.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\bin\Debug\System.ValueTuple.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.csproj.CopyComplete
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.csproj.ResolveComReference.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmTimKiemHoaDonBan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmHoaDonNhap.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmTimKiemHoaDonNhap.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmThongKeDoanhThu.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmDangKyTaiKhoan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmKhoaTK.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh\QLBanHang\obj\Debug\QLBanHang.GUI.frmBackground.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\QLBanHang.exe
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Newtonsoft.Json.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Buffers.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Memory.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Numerics.Vectors.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Encodings.Web.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Json.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.ValueTuple.dll
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Newtonsoft.Json.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Buffers.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Memory.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Numerics.Vectors.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Encodings.Web.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Json.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.ValueTuple.xml
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.ResolveComReference.cache
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmBackground.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDaiLy.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDangKyTaiKhoan.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDangNhap.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmHoaDonBan.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmHoaDonNhap.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmKhoaTK.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmLoaiSanPham.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmNhanVien.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmSanPham.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmThongKeDoanhThu.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmThongTinTaiKhoan.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmTimKiemHoaDonBan.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmTimKiemHoaDonNhap.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.MDIGiaoDienBoss.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.MDIGiaoDienStaff.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.CopyComplete
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.exe
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.ResolveComReference.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmBackground.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDaiLy.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDangKyTaiKhoan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDangNhap.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmHoaDonBan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmHoaDonNhap.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmKhoaTK.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmLoaiSanPham.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmNhanVien.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmSanPham.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmThongKeDoanhThu.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmThongTinTaiKhoan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmTimKiemHoaDonBan.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmTimKiemHoaDonNhap.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.MDIGiaoDienBoss.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.MDIGiaoDienStaff.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.exe
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\QLBanHang.exe
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Newtonsoft.Json.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Buffers.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Memory.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Numerics.Vectors.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Encodings.Web.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Json.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.ValueTuple.dll
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\Newtonsoft.Json.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Buffers.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Memory.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Numerics.Vectors.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Encodings.Web.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Text.Json.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\bin\Debug\System.ValueTuple.xml
+E:\Lập Trình Nâng Cao Với C#\BÀI TẬP LỚN\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csproj.CopyComplete
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmQuenMatKhau.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.GUI.frmDanhSachNguoiDung.resources
+E:\PROJECT2\101196_10119730_NguyenHoangAnh Version 4\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
